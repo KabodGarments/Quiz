@@ -32,18 +32,19 @@ p {
     font-size: 1.5em;
     font-weight: bolder;
     word-break: break-all;
-    width:400px;
+    width:420px;
     height:150px;
-    border : 2px solid lightgrey;
+    border : 10px solid white;
     text-align: center;
     cursor: pointer;
     position: absolute;
-    left:300px;
+    left:250px;
     top:50px;
     color : lightgrey;
+    padding-top: 250;
 }
 #start:hover{
-    border: 3px solid lightseagreen;
+    border: 3px solid blue;
     color : lightseagreen;
 }
 
