@@ -15,7 +15,7 @@ const scoreDiv = document.getElementById("scoreContainer");
 let questions = [
     {
         question : "What does Javascript do exactly?",
-        imgSrc : "img/js.png",
+        imgSrc : "img/js5.png",
         choiceA : "Correct",
         choiceB : "Wrong",
         choiceC : "Wrong",
