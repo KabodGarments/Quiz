@@ -95,30 +95,10 @@ p {
     font-weight: bold;
 }
 
-#timer{
-    position: absolute;
-    height : 100px;
-    width : 200px;
-    bottom : 0px;
-    text-align: center;
-}
 #counter{
     font-size: 3em;
 }
-#btimeGauge{
-    width : 150px;
-    height : 10px;
-    border-radius: 10px;
-    background-color: lightgray;
-    margin-left : 25px;
-}
-#timeGauge{
-    height : 10px;
-    border-radius: 10px;
-    background-color: mediumseagreen;
-    margin-top : -10px;
-    margin-left : 25px;
-}
+
 #progress{
     width : 500px;
     position: absolute;
@@ -138,7 +118,7 @@ p {
 }
 #scoreContainer{
     margin : 20px auto;
-    background-color: white;
+    background-color: blue;
     opacity: 0.8;
     height: 300px;
     width : 700px;
