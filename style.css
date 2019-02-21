@@ -6,7 +6,7 @@ body{
 }
 
 h1 {
-  color: pink;
+  color: rgb(255,102,204);
   text-align: center;
 }
 
@@ -16,6 +16,7 @@ p {
   font-family: "latoWeb";
   line-height: 4;
   font-size: 20px;
+  color: rgb(255,102,204);
 }
 
 #container{

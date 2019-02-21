@@ -1,64 +1,49 @@
-# About / Synopsis
+# _{Application Name}_
 
-* This is a simple personal website to grant me a footprint on the internet
-* Project status: working/prototype
-* Portfolio Website
+##### _{Brief description of application}, {Date of current version}_
 
-# Table of contents
+#### By _**{List of contributors}**_
 
-Access the full project here https://kabodgarments.github.io/
+## Description
 
-# Installation
+_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
 
-* No instalation is required, just internet access
+## Setup
 
-# Usage
-* For gaining a footprint on the world wide web
-## Features
-A sample of features involved include:
-* Multiple hyperlinks to other pages with more information
-* Hyperlinks to free Resources
-* High resolution images used
-* personal Logo used
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
 
-# Code
-* Done in the latest HTML5 language with multiple CSS features
+_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
-## Content
-Several free to use license images as background and a personal logo to represent me
+## Technologies Used
 
-## Requirements
+_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
-Access to internet of not less that 2MBs speed
-## Limitations
+### Legal
 
-No contact form deployed
+*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
-## Build
-Version 1 based on HTML 5
+Copyright (c) 2015 **_{List of contribtors}_**
 
-## Deploy (how to install build product)
+This software is licensed under the MIT license.
 
-No need to install product, just run the link on any of the available browsers
-# Resources (Documentation and other links)
-https://kabodgarments.github.io/
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-https://moringaschool.instructure.com
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-# License
-
-[GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
-
-Sample: https://choosealicense.com/licenses/agpl-3.0/
-
-# About Me
-My name is Nick Waweru. I have a legal and social science background. I have been a freelance Wordpress web developer for the last 3 years since 2017.
-
-I found it very easy and interesting to practice web development via CMS like Wix.com and Wordpress, but at the same time i felt hindered and restricted in regards to becoming a full stack we developer as i could not understand the underlying of the web development industry as well as the platforms that i was already using.
-
-i felt like i really wanted to study coding and programming at a higher level after i developed an interest in the global financial markets of stock and Forex trading. I found myself intrigued at Quant Trading, which forced me to pursue becoming a full stack web developer familiar with python, machine learning and data science so as to try and come up with an automated trading system that is profitable in the long run.
-
-My hobbies include
-* Web Development
-* Trading and market research
-* dog breeding and training
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
