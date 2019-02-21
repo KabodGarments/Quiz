@@ -1,4 +1,4 @@
-// select all elements
+// selecting all elements via js
 const start = document.getElementById("start");
 const quiz = document.getElementById("quiz");
 const question = document.getElementById("question");
@@ -9,7 +9,7 @@ const choiceC = document.getElementById("C");
 const progress = document.getElementById("progress");
 const scoreDiv = document.getElementById("scoreContainer");
 
-// create our questions
+// create our questions as arrays
 let questions = [
     {
         question : "What does Javascript do exactly?",
@@ -20,7 +20,7 @@ let questions = [
         correct : "A"
     },{
         question : "Javascript and Java are the same?",
-        imgSrc : "img/js2.png",
+        imgSrc : "img/js2.jpeg",
         choiceA : "Wrong",
         choiceB : "Correct",
         choiceC : "Wrong",
