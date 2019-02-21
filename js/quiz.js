@@ -14,21 +14,21 @@ const scoreDiv = document.getElementById("scoreContainer");
 // create our questions
 let questions = [
     {
-        question : "What does HTML stand for?",
+        question : "What does Javascript do exactly?",
         imgSrc : "img/js.png",
         choiceA : "Correct",
         choiceB : "Wrong",
         choiceC : "Wrong",
         correct : "A"
     },{
-        question : "What does CSS stand for?",
+        question : "Javascript and Java are the same?",
         imgSrc : "img/js2.png",
         choiceA : "Wrong",
         choiceB : "Correct",
         choiceC : "Wrong",
         correct : "B"
     },{
-        question : "What does JS stand for?",
+        question : "Javascript is a business logic library?",
         imgSrc : "img/js3.png",
         choiceA : "Wrong",
         choiceB : "Wrong",
