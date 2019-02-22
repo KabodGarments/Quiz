@@ -34,14 +34,14 @@ let questions = [
         correct : "B"
     },{
         question : "Q4. Javascript is used for business logic code?",
-        imgSrc : "img/js3.png",
+        imgSrc : "img/js2.png",
         choiceA : "Wrong",
         choiceB : "Yes and also for User Interface",
         choiceC : "Correct",
         correct : "C"
     },{
         question : "Q5. Logical Operator && means?",
-        imgSrc : "img/js3.png",
+        imgSrc : "img/js4.png",
         choiceA : "both of these things must be true",
         choiceB : "either of these things may be true",
         choiceC : "Neither of these things may be true",

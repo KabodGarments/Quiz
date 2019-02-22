@@ -97,12 +97,12 @@ p {
     width : 135px;
     text-align: center;
     border : 1px solid grey;
-    border-radius: 5px;
+    border-radius: 15px;
     cursor: pointer;
     padding : 10px;
 }
 .choice:hover{
-    border : 2px solid grey;
+    border : 2px solid green;
     font-weight: bold;
 }
 
