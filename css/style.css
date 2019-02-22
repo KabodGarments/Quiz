@@ -20,7 +20,7 @@ p {
   line-height: 4;
   font-size: 20px;
   color: rgb(255,102,204);
-  
+
 }
 
 #container{
@@ -71,11 +71,12 @@ p {
 }
 
 #question{
-    width:500px;
+    width:660px;
     height : 125px;
     position: absolute;
     right:0;
     top:0;
+    content: center;
 
 }
 #question p{
@@ -85,11 +86,11 @@ p {
 }
 
 #choices{
-    width : 480px;
+    width : 500px;
     position: absolute;
     right : 0;
     top : 125px;
-    padding : 10px
+    padding : 20px
 }
 .choice{
     display: inline-block;
@@ -98,7 +99,7 @@ p {
     border : 1px solid grey;
     border-radius: 5px;
     cursor: pointer;
-    padding : 5px;
+    padding : 10px;
 }
 .choice:hover{
     border : 2px solid grey;

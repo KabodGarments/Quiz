@@ -12,26 +12,40 @@ const scoreDiv = document.getElementById("scoreContainer");
 // create our questions as arrays
 let questions = [
     {
-        question : "What does Javascript do exactly?",
+        question : "Q1. Meaning of NaN?",
         imgSrc : "img/js5.png",
-        choiceA : "Correct",
-        choiceB : "Wrong",
-        choiceC : "Wrong",
+        choiceA : "NaN means not a number but is actually considered a type of number",
+        choiceB : "NaN means a number but is actually considered a type of number",
+        choiceC : "NaN means not a number but is NOT actually considered a type of number",
         correct : "A"
     },{
-        question : "Javascript and Java are the same?",
-        imgSrc : "img/js2.jpeg",
-        choiceA : "Wrong",
-        choiceB : "Correct",
-        choiceC : "Wrong",
-        correct : "B"
-    },{
-        question : "Javascript is a business logic library?",
+        question : "Q2. numbers, strings, booleans, and undefined are data types?",
         imgSrc : "img/js3.png",
         choiceA : "Wrong",
-        choiceB : "Wrong",
+        choiceB : "All except undefined",
         choiceC : "Correct",
         correct : "C"
+    },{
+        question : "Q3. What is JSFiddle?",
+        imgSrc : "img/js2.jpeg",
+        choiceA : "A JS operator",
+        choiceB : "An online JS experimental tool or platform",
+        choiceC : "A JS Data type",
+        correct : "B"
+    },{
+        question : "Q4. Javascript is used for business logic code?",
+        imgSrc : "img/js3.png",
+        choiceA : "Wrong",
+        choiceB : "Yes and also for User Interface",
+        choiceC : "Correct",
+        correct : "C"
+    },{
+        question : "Q5. Logical Operator && means?",
+        imgSrc : "img/js3.png",
+        choiceA : "both of these things must be true",
+        choiceB : "either of these things may be true",
+        choiceC : "Neither of these things may be true",
+        correct : "A"
     }
 ];
 
