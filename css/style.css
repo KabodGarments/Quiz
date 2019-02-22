@@ -177,7 +177,34 @@ p {
     color : lightgrey;
     padding-top: 450;
   }
+  .hint-showing {
+        display: none;
+      }
+
+      .clickable {
+        cursor: pointer;
+        color: #0088cc;
+      }
+
+      .clickable:hover {
+        text-decoration: underline;
+      }
+      .hint2-showing {
+            display: none;
+          }
+
+          .clickable {
+            cursor: pointer;
+            color: #0088cc;
+          }
+
+          .clickable:hover {
+            text-decoration: underline;
+          }
 
 #hint-showing {
         display: none;
+  }
+#hint2-showing {
+          display: none;
   }

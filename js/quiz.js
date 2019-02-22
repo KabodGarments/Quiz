@@ -139,8 +139,15 @@ function scoreRender(){
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
 }
 $(document).ready(function() {
-        $(".clickable").click(function() {
-          $("#hint-showing").toggle();
-          $("#hint-hidden").toggle();
-        });
-      });
+       $(".clickable").click(function() {
+         $("#hint-showing").toggle();
+         $("#hint-hidden").toggle();
+       });
+     });
+
+$(document).ready(function() {
+       $(".clickable").click(function() {
+         $("#hint2-showing").slideDown();
+         $("#hint2-hidden").slideUp();
+       });
+     });
