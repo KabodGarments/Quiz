@@ -12,6 +12,14 @@ h1 {
   background-image: url("https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
 
 }
+h2 {
+  color: rgb(255,102,204);
+  text-align: center;
+  border : 10px solid yellow;
+  height: 55px;
+  width : 500px;
+  float: central;
+}
 
 p {
   color: pink;
@@ -20,6 +28,7 @@ p {
   line-height: 4;
   font-size: 20px;
   color: rgb(255,102,204);
+  border: 15px ;
 
 }
 
@@ -167,4 +176,8 @@ p {
     top:50px;
     color : lightgrey;
     padding-top: 450;
+  }
+
+#hint-showing {
+        display: none;
   }

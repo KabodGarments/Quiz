@@ -107,19 +107,18 @@ function checkAnswer(answer){
         renderQuestion();
     }else{
         // end the quiz and show the score
-        clearInterval(TIMER);
         scoreRender();
     }
 }
 
 // answer is correct
 function answerIsCorrect(){
-    document.getElementById(runningQuestion).style.backgroundColor = "#0f0";
+    document.getElementById(runningQuestion).style.backgroundColor = "#24A931";
 }
 
 // answer is Wrong
 function answerIsWrong(){
-    document.getElementById(runningQuestion).style.backgroundColor = "#f00";
+    document.getElementById(runningQuestion).style.backgroundColor = "#FF0000";
 }
 
 // score render
@@ -139,3 +138,9 @@ function scoreRender(){
     scoreDiv.innerHTML = "<img src="+ img +">";
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
 }
+$(document).ready(function() {
+        $(".clickable").click(function() {
+          $("#hint-showing").toggle();
+          $("#hint-hidden").toggle();
+        });
+      });
