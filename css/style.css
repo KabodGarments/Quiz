@@ -20,7 +20,7 @@ p {
   line-height: 4;
   font-size: 20px;
   color: rgb(255,102,204);
-  background-image: url("https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  
 }
 
 #container{
@@ -153,5 +153,17 @@ p {
     font-weight: bold;
     text-align: center;
 }
-#well{font-size: 1.5em;
-    background-image: url("https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+#header{font-size: 1.5em;
+    font-weight: bolder;
+    word-break: break-all;
+    width:100px;
+    height:150px;
+    border : 10px solid pink;
+    text-align: center;
+    cursor: pointer;
+    position: absolute;
+    left:250px;
+    top:50px;
+    color : lightgrey;
+    padding-top: 450;
+  }
