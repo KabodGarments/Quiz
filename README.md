@@ -1,8 +1,8 @@
-# _{Online Based Javasript Quiz Board}_
+# _Online Based Javasript Quiz Board_
 
-##### _{This is a simple online based Javasript quiz comprising of 5 simple quizes just to test ones intellectual understanding of the Javasript programming language}, {February 20th 2019 V1.1}_
+##### _This is a simple online based Javasript quiz comprising of 5 simple quizes just to test ones intellectual understanding of the Javasript programming language, February 20th 2019 V1.1_
 
-#### By _**{Nick Waweru; kabod_garments}**_
+#### By _**Nick Waweru; kabod_garments**_
 
 ## Description
 
@@ -25,13 +25,13 @@ _{This quiz is a quick testing quiz, which suggests that theuser answer the ques
 
 ## Technologies Used
 
-_{The  Business logic uses Javasript, jQuery, while the user interphase uses CSS and Bootstarp. All these tools are layed out on a basic HTML5 Skeleton}_
+_The  Business logic uses Javasript, jQuery, while the user interphase uses CSS and Bootstarp. All these tools are layed out on a basic HTML5 Skeleton_
 
 ### Legal
 
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
+*This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.*
 
-Copyright (c) 2019 **_{Nick Waweru}_**
+Copyright (c) 2019 **_Nick Waweru_**
 
 This software is licensed under the MIT license.
 
