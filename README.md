@@ -1,32 +1,37 @@
-# _{Application Name}_
+# _{Online Based Javasript Quiz Board}_
 
-##### _{Brief description of application}, {Date of current version}_
+##### _{This is a simple online based Javasript quiz comprising of 5 simple quizes just to test ones intellectual understanding of the Javasript programming language}, {February 20th 2019 V1.1}_
 
-#### By _**{List of contributors}**_
+#### By _**{Nick Waweru; kabod_garments}**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_{This web based Javasript quize board presents the user viathe user interphase with simple questionsupon which the user is asked to select what he/she thinks is the right nswer froma choice of 3 multiple choice answers. Upon selecting the answer, the user gets to track his/her progress in regards to getting the answers correct via a colored progress bar at the bottom right of the board. Every time the user gets a question correct, the progress bar shows a green dotted color, while everytime the user gets an answer wrong, the progess bar shows a red dot. At the end attempting all the answers, the user is issued with a percentage result based on how many questions they got wrong or right.
+
+  The user also gets the opportunity to access a Javasript cheatsheet prior to taking the course. This cheatsheet appears and disappears upon the click of the user.}_
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Access a web browser of your choice
+* _open the html.index file to access the quiz board_
+* _click on the hint cheatsheet to get clues to the expected answers_
+* _start the quiz_
+* _select your choice of answers from the available 3 choices pers question_
+* _track your progress from the progress bar on the bottom right as you answer each question_
+* _get your performance score in percentage after answering 5 questions_
+* _refresh the page and do the quiz all over again to get better scores_
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+_{This quiz is a quick testing quiz, which suggests that theuser answer the questions in aslittle time aspossible without taking to much time}_
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{The  Business logic uses Javasript, jQuery, while the user interphase uses CSS and Bootstarp. All these tools are layed out on a basic HTML5 Skeleton}_
 
 ### Legal
 
 *{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2019 **_{Nick Waweru}_**
 
 This software is licensed under the MIT license.
 
