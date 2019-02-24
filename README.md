@@ -6,13 +6,13 @@
 
 ## Description
 
-_This web based Javasript quiz board presents the user via the user interphase with simple questions upon which the user is asked to select what he/she thinks is the right Answer from a choice of 3 multiple choice answers. Upon selecting the answer, the user gets to track his/her progress in regards to getting the answers correct via a colored progress bar at the bottom right of the board. Every time the user gets a question correct, the progress bar shows a green dotted color, while everytime the user gets an answer wrong, the progress bar shows a red dot. At the end attempting all the answers, the user is issued with a percentage result based on how many questions they got wrong or right.
+This web based Javasript quiz board presents the user via the user interphase with simple questions upon which the user is asked to select what he/she thinks is the right Answer from a choice of 3 multiple choice answers. Upon selecting the answer, the user gets to track his/her progress in regards to getting the answers correct via a colored progress bar at the bottom right of the board. Every time the user gets a question correct, the progress bar shows a green dotted color, while everytime the user gets an answer wrong, the progress bar shows a red dot. At the end attempting all the answers, the user is issued with a percentage result based on how many questions they got wrong or right.
 
-  The user also gets the opportunity to access a Javasript cheatsheet prior to taking the course. This cheatsheet appears and disappears upon the click of the user._
+  The user also gets the opportunity to access a Javasript cheatsheet prior to taking the course. This cheatsheet appears and disappears upon the click of the user.
 
 ## Setup
 
-* _Access a web browser of your choice
+* Access a web browser of your choice
 * _open the html.index file to access the quiz board_
 * _click on the hint cheatsheet to get clues to the expected answers_
 * _start the quiz_
