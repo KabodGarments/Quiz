@@ -48,7 +48,6 @@ let questions = [
         correct : "A"
     }
 ];
-
 // render a question
 function renderQuestion(){
     let q = questions[runningQuestion];
