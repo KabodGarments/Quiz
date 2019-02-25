@@ -134,8 +134,8 @@ $(document).ready(function() {
      });
 
 $(document).ready(function() {
-       $(".clickable").click(function() {
-         $("#hint2-showing").slideDown();
-         $("#hint2-hidden").slideUp();
+       $(".clickable2").click(function() {
+         $("#hint2-showing").fadeIn();
+         $("#hint2-hidden").fadeOut();
        });
      });
