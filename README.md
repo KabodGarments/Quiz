@@ -4,6 +4,8 @@
 
 #### By _**Nick Waweru and Kabod Garments**_
 
+### Github Repo link is https://github.com/KabodGarments/Quiz.github.io
+
 ## Description
 
 This web based Javasript quiz board presents the user via the user interphase with simple questions upon which the user is asked to select what he/she thinks is the right Answer from a choice of 3 multiple choice answers. Upon selecting the answer, the user gets to track his/her progress in regards to getting the answers correct via a colored progress bar at the bottom right of the board. Every time the user gets a question correct, the progress bar shows a green dotted color, while everytime the user gets an answer wrong, the progress bar shows a red dot. At the end attempting all the answers, the user is issued with a percentage result based on how many questions they got wrong or right.
