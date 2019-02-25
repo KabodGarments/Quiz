@@ -73,12 +73,14 @@ p {
     right:0;
     top:0;
     content: center;
+    font color: white;
 
 }
 #question p{
     margin : 0;
     padding : 15px;
     font-size: 1.25em;
+    font color: white;
 }
 
 #choices{
