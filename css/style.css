@@ -66,19 +66,6 @@ p {
     color : lightseagreen;
 }
 
-#qImg{
-    width : 200px;
-    height : 200px;
-    position: absolute;
-    left : 0px;
-    top : 0px;
-}
-#qImg {
-    width : 200px;
-    height : 200px;
-    border-top-left-radius: 5px;
-}
-
 #question{
     width:660px;
     height : 125px;
@@ -113,10 +100,6 @@ p {
 .choice:hover{
     border : 2px solid green;
     font-weight: bold;
-}
-
-#counter{
-    font-size: 3em;
 }
 
 #progress{
