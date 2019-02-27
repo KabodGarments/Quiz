@@ -2,7 +2,7 @@
 
 ##### _This is a simple online based Javasript quiz comprising of 5 simple questions just to test ones intellectual understanding of the Javasript programming language, February 20th 2019 V1.1_
 
-#### By _**Nick Waweru and Kabod Garments**_
+#### By _**Nick Waweru and Kabod Garments**_for more information, send an email here nicknjoroge75@gmail.com
 
 ### Github Repo link is https://github.com/KabodGarments/Quiz.github.io
 
