@@ -124,7 +124,7 @@ function scoreRender(){
               "img/1.png";
 
     scoreDiv.innerHTML = "<img src="+ img +">";
-    scoreDiv.innerHTML += "<p>"+"you sored+ scorePerCent +"%</p>";
+    scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
 }
 $(document).ready(function() {
        $(".clickable").click(function() {
